@@ -11,7 +11,7 @@ int main(){
 			cout<<" ";
 		}
 		for(j=1; j<=i; j++){
-			cout<<"* ";
+			cout<<"*";
 		}
 		cout<<endl;                                                                                                                                               
 	}
