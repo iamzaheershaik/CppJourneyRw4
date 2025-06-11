@@ -1,16 +1,1 @@
-/home/faizan/CLion/clion-2025.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/faizan/CLion/clion-2025.1.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/faizan/CppJourneyRw4/LabWork/PolyMerphism -B /home/faizan/CppJourneyRw4/LabWork/PolyMerphism/cmake-build-debug
--- The C compiler identification is GNU 13.3.0
--- The CXX compiler identification is GNU 14.2.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: /usr/bin/cc - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: /usr/bin/c++ - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
--- Configuring done (0.9s)
--- Generating done (0.0s)
--- Build files have been written to: /home/faizan/CppJourneyRw4/LabWork/PolyMerphism/cmake-build-debug
+CMakeLists.txt not found in /home/faizan/CppJourneyRw4/LabWork/PolyMerphism Select CMakeLists.txt

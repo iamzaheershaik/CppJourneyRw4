@@ -3,4 +3,4 @@ project(PolyMerphism)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(PolyMerphism main.cpp)
+add_executable(PolyMerphism OverLoading.cpp)
