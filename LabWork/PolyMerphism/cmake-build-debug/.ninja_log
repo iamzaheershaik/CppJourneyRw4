@@ -1,0 +1,14 @@
+# ninja log v6
+815	964	1749602241233416147	PolyMerphism	7116e1ac7fedd5c8
+209	814	1749602240627416110	CMakeFiles/PolyMerphism.dir/main.cpp.o	2e4b5c4069cce9ed
+200	209	1749602240625416110	CMakeFiles/PolyMerphism.dir/main.cpp.o.modmap	4ffbb9456dbe02c5
+200	209	1749602240625416110	/home/faizan/CppJourneyRw4/LabWork/PolyMerphism/cmake-build-debug/CMakeFiles/PolyMerphism.dir/CXXModules.json	4ffbb9456dbe02c5
+200	209	1749602240625416110	CMakeFiles/PolyMerphism.dir/CXX.dd	4ffbb9456dbe02c5
+3	200	1749602240421416098	CMakeFiles/PolyMerphism.dir/main.cpp.o.ddi	6a0934f232f73158
+1	77	1749602539727434082	build.ninja	ebaeb5ef97d1a556
+1	131	1749602539742434083	CMakeFiles/PolyMerphism.dir/OverLoading.cpp.o.ddi	7d27e21fb8d6ef70
+132	139	1749602539873434091	CMakeFiles/PolyMerphism.dir/CXX.dd	60311ba15b303729
+132	139	1749602539873434091	/home/faizan/CppJourneyRw4/LabWork/PolyMerphism/cmake-build-debug/CMakeFiles/PolyMerphism.dir/CXXModules.json	60311ba15b303729
+132	139	1749602539873434091	CMakeFiles/PolyMerphism.dir/OverLoading.cpp.o.modmap	60311ba15b303729
+139	669	1749602539880434092	CMakeFiles/PolyMerphism.dir/OverLoading.cpp.o	5290129478b60320
+669	795	1749602540410434123	PolyMerphism	4e87a2b1d9c51fb5

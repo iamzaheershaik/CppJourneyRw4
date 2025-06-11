@@ -1,0 +1,3 @@
+/home/faizan/CppJourneyRw4/LabWork/PolyMerphism/cmake-build-debug/CMakeFiles/PolyMerphism.dir
+/home/faizan/CppJourneyRw4/LabWork/PolyMerphism/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/faizan/CppJourneyRw4/LabWork/PolyMerphism/cmake-build-debug/CMakeFiles/rebuild_cache.dir
