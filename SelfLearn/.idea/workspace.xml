@@ -18,7 +18,9 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="SelfLearn" targetName="SelfLearn" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -26,7 +28,29 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be740b6-5968-4c54-aa2d-22c990a57dc2" name="Changes" comment="" />
+    <list default="true" id="555afb8a-fff4-4eea-acbb-a438eedf290b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/.idea/String2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/Length.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/append.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/append.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/emptyString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String2/emptyString.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCppFiles/S.lenght.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCppFiles/StrToLongInt.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCppFiles/StrTok.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCppFiles/Strchr.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCppFiles/Strcom.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCppFiles/StringClass.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringCppFiles/Strrchr.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +66,48 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -50,20 +116,15 @@
     <option name="productBranch" value="Classic" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2y247rnqeJkPBGbOa4sqImhayKU" />
+  <component name="ProjectId" id="2y7jY7nI3dVuvEF2nR8DZtthA8x" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;C/C++ File.S.lenght.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.StrToLongInt.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Strcom.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.StringClass.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Strrchr.cpp.executor&quot;: &quot;Run&quot;,
     &quot;CMake Application.SelfLearn.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
@@ -81,72 +142,29 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/CppJourneyRw4/SelfLearn/main.cpp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.S.lenght.cpp">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager">
+    <configuration name="SelfLearn" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SelfLearn" TARGET_NAME="SelfLearn" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SelfLearn" RUN_TARGET_NAME="SelfLearn">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S.lenght.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SelfLearn" TARGET_NAME="S.lenght.cpp" CONFIG_NAME="S.lenght.cpp">
-      <option name="sourceFile" value="S.lenght.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StrToLongInt.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SelfLearn" TARGET_NAME="StrToLongInt.cpp" CONFIG_NAME="StrToLongInt.cpp">
-      <option name="sourceFile" value="StrToLongInt.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Strcom.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SelfLearn" TARGET_NAME="Strcom.cpp" CONFIG_NAME="Strcom.cpp">
-      <option name="sourceFile" value="Strcom.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringClass.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SelfLearn" TARGET_NAME="StringClass.cpp" CONFIG_NAME="StringClass.cpp">
-      <option name="sourceFile" value="StringClass.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Strrchr.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SelfLearn" TARGET_NAME="Strrchr.cpp" CONFIG_NAME="Strrchr.cpp">
-      <option name="sourceFile" value="Strrchr.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="C/C++ File.S.lenght.cpp" />
-      <item itemvalue="C/C++ File.StringClass.cpp" />
-      <item itemvalue="C/C++ File.StrToLongInt.cpp" />
-      <item itemvalue="C/C++ File.Strcom.cpp" />
-      <item itemvalue="C/C++ File.Strrchr.cpp" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="C/C++ File.S.lenght.cpp" />
-        <item itemvalue="C/C++ File.StringClass.cpp" />
-        <item itemvalue="C/C++ File.StrToLongInt.cpp" />
-        <item itemvalue="C/C++ File.Strcom.cpp" />
-        <item itemvalue="C/C++ File.Strrchr.cpp" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7be740b6-5968-4c54-aa2d-22c990a57dc2" name="Changes" comment="" />
-      <created>1749019170054</created>
+      <changelist id="555afb8a-fff4-4eea-acbb-a438eedf290b" name="Changes" comment="" />
+      <created>1749192552464</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1749019170054</updated>
-      <workItem from="1749019172168" duration="6303000" />
-      <workItem from="1749025571301" duration="644000" />
+      <updated>1749192552464</updated>
+      <workItem from="1749192555859" duration="743000" />
+      <workItem from="1749193325267" duration="462000" />
+      <workItem from="1749195344020" duration="1286000" />
+      <workItem from="1749537381014" duration="654000" />
+      <workItem from="1749710589158" duration="636000" />
     </task>
     <servers />
   </component>
