@@ -40,14 +40,10 @@ public:
         }
     }
     void Deposit(int accno, float deposit) {
-        if (accno == getAccountNo()){
-            if (deposit >=1000) {
-                setBalance(getBalance()+deposit);
-                cout << "Deposit successful. New balance: ₹" << getBalance() << endl;
-            }else {
-                cout<<"Please Deposit Amount of minimum 1000 as initial Deposit"<<endl;
-            }
-        }else {
+        if (accno == getAccountNo()) {
+            setBalance(getBalance()+deposit);
+            cout << "Deposit successful. New balance: ₹" << getBalance() << endl;
+        }else{
             cout<<"invalid account Number"<<endl;
         }
     }
@@ -65,13 +61,13 @@ public:
     }
 };
 int main() {
-    SBI B;
+    SBI B[50];
     int choice;
     int accountNo;
     float initialDeposit;
     float amount;
     string accountHolder;
-
+    int count =0;
     while (true) {
         cout<<"Welcome To STATE BANK OF INDIA"<<endl;
         cout<<"Press:1 Create a Account"<<endl;
@@ -84,40 +80,58 @@ int main() {
         cin.ignore();
         switch (choice) {
             case 1:
-                cout<<"Please Enter Your Name"<<endl;
-                getline(cin,accountHolder);
-                cout<<"Next Enter Your Account Number"<<endl;
-                cin>>accountNo;
-                cout<<" Deposit Amount As initial Balance Minimum is 1000"<<endl;
-                cin>>initialDeposit;
-                B.createAccount(accountNo,accountHolder,initialDeposit);
-                cout<<"Congrats Your Now Part SBI Family"<<endl;
-                break;
+                if (count >= 50) {
+                    cout << "Account limit reached. Cannot create more accounts." << endl;
+                    break;
+                }else{
+                    cout<<"Please Enter Your Name"<<endl;
+                    getline(cin,accountHolder);
+                    cout<<"Next Enter Your Account Number"<<endl;
+                    cin>>accountNo;
+                    cout<<" Deposit  initial Balance"<<endl;
+                    cin>>initialDeposit;
+                    B[count].createAccount(accountNo,accountHolder,initialDeposit);
+                    cout<<"Congrats Your Now Part SBI Family"<<endl;
+                    count++;
+                    break;
+                }
             case 2:
-                cout << "Enter Your Account No: "<<endl;
+                cout << "Enter Your Account No: ";
                 cin >> accountNo;
-                B.checkDetails(accountNo);
-                break;
+                for (int i = 0; i < count; i++) {
+                    if (B[i].getAccountNo() == accountNo){
+                        B[i].checkDetails(accountNo);
+                        break;
+                    }
+                }break;
             case 3:
                 cout<<"Enter Your Account No: "<<endl;
                 cin>>accountNo;
                 cout<<"Deposit the Amount"<<endl;
                 cin>>amount;
-                B.Deposit(accountNo, amount);
-                break;
+                for (int i = 0; i <count; i++) {
+                    if (B[i].getAccountNo() == accountNo) {
+                        B[i].Deposit(accountNo, amount);
+                        break;
+                    }
+                }break;
             case 4:
-                cout<<"Enter Your Account No: "<<endl;
-                cin>>accountNo;
-                cout<<"Enter the Withdraw Amount"<<endl;
-                cin>>amount;
-                B.Deposit(accountNo, amount);
-                break;
+                    cout<<"Enter Your Account No: "<<endl;
+                    cin>>accountNo;
+                    cout<<"Enter the Withdraw Amount"<<endl;
+                    cin>>amount;
+                for (int i = 0; i<count; i++) {
+                    if (B[i].getAccountNo() == accountNo) {
+                        B[i].withDraw(accountNo, amount);
+                        break;
+                    }
+                }break;
             case 5:
-                cout << "Thank you for using the Bank system." << endl;
-                return 0;
-
-            default:
-                cout << "Invalid choice. Please try again." << endl;
+                    cout << "Thank you for using the Bank system." << endl;
+                    return 0;
+                    default:
+                    cout << "Invalid choice. Please try again." << endl;
+                }
         }
     }
-}
+
