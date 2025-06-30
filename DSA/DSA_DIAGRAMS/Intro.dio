@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="fq5G5PDxvN7yKdY03GO7" name="Page-1">
+        <mxGraphModel dx="2907" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="24" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.39;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="286.8000000000002" y="318.1099999999999" as="sourcePoint"/>
+                        <mxPoint x="190" y="410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="280" y="380"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;&lt;b&gt;DATA STRUCTURE&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="250" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 18px; color: rgb(255, 153, 51);&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Classfication of Data Structures&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="200" width="320" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;b&gt;Linear Data&lt;/b&gt;&lt;div&gt;&lt;b&gt;Structure&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;b&gt;Non-linear&lt;/b&gt;&lt;div&gt;&lt;b&gt;-Data Structure&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;b&gt;Linear Data&lt;/b&gt;&lt;div&gt;&lt;b&gt;Structure&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="-50" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="22" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;b&gt;Linear Data&lt;/b&gt;&lt;div&gt;&lt;b&gt;Structure&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="530" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
