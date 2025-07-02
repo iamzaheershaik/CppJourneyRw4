@@ -1,4 +1,5 @@
 #include<iostream>
+#include <climits>
 using namespace std;
 
 class Node{
@@ -76,18 +77,25 @@ int  Rmax(Node *x) {
         return m>x->data?m:x->data;
     }
 }
-// int min(Node *w) {
-//     int m =  INT_MIN;
-//     while (w) {
-//         if (w->data<m) {
-//             m=w->data;
-//         }
-//         w=w->next;
-//     }
-//     return m;
-// }
+Node* search(Node *p, int key) {
+    while (p!=NULL) {
+        if (key==p->data) {
+            return p;
+        }
+        p=p->next;
+    }
+    return NULL;
+}
+Node* Rsearch(Node *p, int key) {
+    if (p==NULL) {
+        return NULL;
+    }else if (key==p->data){
+        return p;
+    }
+    return Rsearch(p->next,key);
+}
 int main(){
-    int A[] {1,22,44,55,66}, choice;
+    int A[] {1,22,44,55,66}, choice, key;
     while(true){
         cout<<"0.Exit"<<endl;
         cout<<"1.Create the Linked List"<<endl;
@@ -97,9 +105,9 @@ int main(){
         cout<<"5.Sum of the Elements in LinkedList Nodes"<<endl;
         cout<<"6.Sum Using The Recursive"<<endl;
         cout<<"7.Find the Max Number in the list"<<endl;
-        // cout<<"8.Find the Min Number in the list"<<endl;
-        cout<<"9.Find the RMax Number using the recursion"<<endl;
-        // cout<<"10.Find the RMin Number using the recursion"<<endl;
+        cout<<"8.Find the RMax Number using the recursion"<<endl;
+        cout<<"9.Search for a Key in the List"<<endl;
+        cout<<"10.Search for a Key in the List"<<endl;
         cout<<"Enter your Choice"<<endl;
         cin>>choice;
         if(choice==0){
@@ -114,12 +122,15 @@ int main(){
                     case  1:
                        create(A,5);
                        cout<<"---------------linked List Successfully Created-------------------"<<endl;
+                       cout << endl;
                        break;
                     case 2:
                        display(first);
+                       cout << endl;
                        break;
                     case 3:
                        Rdisplay(first);
+                       cout << endl;
                        break;
                     case 4:
                        cout<<"The No of Nodes in the Linked List = "<<count(first)<<endl;
@@ -133,15 +144,22 @@ int main(){
                    case 7:
                        cout<<"The Max No in the LinkedList = "<<max(first)<<endl;
                        break;
-                   // case 8:
-                   //     cout<<"The Min No in the LinkedList = "<<min(first)<<endl;
-                   //     break;
-                   case 9:
-                       cout<<"The Min No in the LinkedList = "<<Rmax(first)<<endl;
+                   case 8:
+                       cout<<"The Rmax No in the LinkedList = "<<Rmax(first)<<endl;
                        break;
-                   // case 10:
-                   //     cout<<"The Min No in the LinkedList = "<<Rmin(first)<<endl;
-                   //     break;
+                   case 9:
+                       cout << "Enter the key to search: ";
+                       cin >> key;
+                   {
+                       Node *result = search(first, key);
+                       if (result != NULL) {
+                           cout << "Key " << key << " found at node with address: " << result
+                                << ", data = " << result->data << endl;
+                       } else {
+                           cout << "Key " << key << " not found." << endl;
+                       }
+                   }
+                       break;
                 default:
                         cout<<"Invalid Option"<<endl;
                }
