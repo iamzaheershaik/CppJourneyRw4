@@ -1,0 +1,48 @@
+type: edu
+custom_name: Shared Pointer
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 151
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 151
+        initialized_from_dependency: false
+        encrypted_possible_answer: ooUM5D0Z6IyujndeEtxIVRj1dFk9jxEq9e14FNfvOU+61tqsDW3mOEQ44JMmC28InMW7AyJ681OZLT/7XStHHA==
+        selected: false
+        status: Unchecked
+      - offset: 217
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 217
+        initialized_from_dependency: false
+        encrypted_possible_answer: NED6rA6Zf77nbEIZzxTGcxfGeMV/UdXu5LJsCgd3Z7Q=
+        selected: false
+        status: Unchecked
+      - offset: 260
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 260
+        initialized_from_dependency: false
+        encrypted_possible_answer: Yy49nfjfAw5sOo+XYNxRSA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: include/chat.hpp
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,26 @@
+type: edu
+custom_name: Max Int
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 31
+        length: 9
+        placeholder_text: return 0;
+        initial_state:
+          length: 9
+          offset: 31
+        initialized_from_dependency: false
+        encrypted_possible_answer: smNbxTo+YWEVmx7D02zICY/TEZSBriY/Sp2ycS3vMUo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Quiz/Max+Int
+status: Unchecked
+record: -1

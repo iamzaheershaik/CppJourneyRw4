@@ -1,0 +1,67 @@
+type: edu
+custom_name: Weak Pointer
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/user.cpp
+    visible: true
+    editable: false
+    learner_created: false
+  - name: include/user.hpp
+    visible: false
+    editable: false
+    learner_created: false
+  - name: include/chat.hpp
+    visible: true
+    placeholders:
+      - offset: 273
+        length: 13
+        placeholder_text: ", host(owner)"
+        initial_state:
+          length: 13
+          offset: 273
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7by1xzeq+KBuZyXnmx41Dg==
+        selected: false
+        status: Unchecked
+      - offset: 481
+        length: 12
+        placeholder_text: return host;
+        initial_state:
+          length: 12
+          offset: 481
+        initialized_from_dependency: false
+        encrypted_possible_answer: Rfn99+JCsX9GjMEFkBFqaYfcU3CQtnU2ONNssCxDiO8=
+        selected: false
+        status: Unchecked
+      - offset: 547
+        length: 27
+        placeholder_text: std::shared_ptr<User> host;
+        initial_state:
+          length: 27
+          offset: 547
+        initialized_from_dependency: false
+        encrypted_possible_answer: qKL/xXhMCR2wFK1PYFk/UpiY9m+D9IO9k0/dr5dTZRw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 197
+        length: 15
+        placeholder_text: return nullptr;
+        initial_state:
+          length: 15
+          offset: 197
+        initialized_from_dependency: false
+        encrypted_possible_answer: EkoDajkLv4q78VU9NUBdLimoXqmyy6YUR/F1jcN98MT755aIRD+8ausx3KRWf5fkWVhFQiL5SOoXEfK++bGVU2CYLV/YM1wGwq5suPxuLSwot2e4EMOi4tcvvR1BU/RFhhcg8kcFHDN3kU8aK2HCyg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

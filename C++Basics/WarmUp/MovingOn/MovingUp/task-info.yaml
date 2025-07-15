@@ -1,0 +1,70 @@
+type: edu
+custom_name: Moving Up
+files:
+  - name: src/point.cpp
+    visible: true
+    placeholders:
+      - offset: 87
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 87
+        initialized_from_dependency: false
+        encrypted_possible_answer: INFFZm5M9eNeUYNHh0poE4IjA6Qhliit+YXwuyp8KiidJgZf8F5m/TN12meGrfFZ
+        selected: false
+        status: Unchecked
+      - offset: 179
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 179
+        initialized_from_dependency: false
+        encrypted_possible_answer: pelbdSGe8NgHG+byI/ljy5v/ZQLq/c9yOSKURsdX+MpMLssF9QyW3PScRwJi68X/
+        selected: false
+        status: Unchecked
+      - offset: 282
+        length: 8
+        placeholder_text: position
+        initial_state:
+          length: 8
+          offset: 282
+        initialized_from_dependency: false
+        encrypted_possible_answer: SKJuYDb16PU7jYutTiTlSfCAdk8sm41OEn66k7L3tCTPDWPR+FlDsnI2q+usN94C
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/move.cpp
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 8
+        placeholder_text: position
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: HavingFun
+          file: src/move.cpp
+          placeholder: 1
+        initial_state:
+          length: 8
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: /IQIMKSrhsIgpemC4obiThpE863msPE3k23akoUEhdM=
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Moving+On/Moving+Up
+status: Unchecked
+record: -1

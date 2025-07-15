@@ -1,0 +1,34 @@
+type: theory
+custom_name: Having Fun
+files:
+  - name: src/move.cpp
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 8
+        placeholder_text: position
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: LookAround
+          file: src/move.cpp
+          placeholder: 1
+        initial_state:
+          length: 8
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: /IQIMKSrhsIgpemC4obiThpE863msPE3k23akoUEhdM=
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Moving+On/Having+Fun
+status: Unchecked
+record: -1
+post_submission_on_open: true

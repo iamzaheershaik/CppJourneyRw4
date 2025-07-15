@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/faizan/CppJourneyRw4/C++Basics/cmake-build-debug/lib/libgmock.a "CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+/usr/bin/ranlib /home/faizan/CppJourneyRw4/C++Basics/cmake-build-debug/lib/libgmock.a

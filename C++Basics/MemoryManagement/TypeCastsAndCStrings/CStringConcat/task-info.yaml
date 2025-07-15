@@ -1,0 +1,25 @@
+type: edu
+custom_name: C Style Strings Concatenation
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 92
+        length: 15
+        placeholder_text: return nullptr;
+        initial_state:
+          length: 15
+          offset: 92
+        initialized_from_dependency: false
+        encrypted_possible_answer: ytmx7ue3Z8EKSIx7X1JAQxgX2+Onwg5aoh2DUwUB7Noa18WODjqGrhglJ755aXO7tJLhqRvchdZWfa0KELDb1a8LPQKQQYriMRVOP01OgmYbGojjP8BV1+UBHtjcN/e8UeaLK997Uld36KmfBMWWih6Y+m2HJ0DwGYOc9IXq6RIx3iJbMhEkzvvUZ9q8Vf875xSJnF9VR1/VsTtdByETVKRqDMyOR2B6WT8K2/qGjZL8AGfIRd8ofj0Tvh2smsQnIqE3Hu+6WcMm8sNJDSqSkA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

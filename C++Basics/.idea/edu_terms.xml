@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="12765597">
+                <value>
+                  <list>
+                    <Term value="integer division" definition="In C++, integer division is the operation of dividing two integers, discarding any fractional part of the result." />
+                    <Term value="special command" definition="A special command in programming is an instruction designed to perform a specific action, such as 'exit' to terminate a program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="112619569">
+                <value>
+                  <list>
+                    <Term value="functions" definition="Functions are the basic building blocks of programs in almost every programming language. They allow the programmer to split a complex task into smaller sub-problems and solve them independently." />
+                    <Term value="Functions" definition="Functions are the basic building blocks of programs in almost every programming language. They allow the programmer to split a complex task into smaller sub-problems and solve them independently." />
+                    <Term value="function" definition="Functions are the basic building blocks of programs in almost every programming language. They allow the programmer to split a complex task into smaller sub-problems and solve them independently." />
+                    <Term value="function name" definition="The name of a function is used to identify the function for invocation and definition." />
+                    <Term value="arguments" definition="Arguments are variables given to a function along with their type to provide input data." />
+                    <Term value="return type" definition="The return type of a function is the type of value that the function returns to the calling code." />
+                    <Term value="function body" definition="The function body contains the code enclosed in curly brackets `{}` that defines the actions the function performs." />
+                    <Term value="void" definition="The return type `void` is used for functions that do not return a value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="187428144">
+                <value>
+                  <list>
+                    <Term value="doubly linked list" definition="A data structure where each node contains references to its previous and next node, allowing traversal in both directions." />
+                    <Term value="std::unique_ptr" definition="A smart pointer in C++ that owns and manages an object through a pointer and destroys that object when the unique_ptr goes out of scope, ensuring unique ownership." />
+                    <Term value="std::shared_ptr" definition="A smart pointer in C++ that shares ownership of an object with multiple shared_ptr instances, incrementing and decrementing the reference count accordingly." />
+                    <Term value="ownership model" definition="A programming concept where an object or resource is owned by a construct that manages its lifecycle, often used in C++ with smart pointers to ensure proper resource management." />
+                    <Term value="std::move" definition="A C++ utility function that enables transferring ownership of resources from one object to another, often used with std::unique_ptr." />
+                    <Term value="copy-and-swap idiom" definition="A C++ technique for implementing assignment operator overloads to ensure exception safety and reuse of copy and move assignment logic." />
+                    <Term value="sentinel node" definition="A placeholder node in a linked list used to simplify edge cases by acting as a boundary, often used as the head or tail of the list." />
+                    <Term value="sentinel nodes" definition="A placeholder node in a linked list used to simplify edge cases by acting as a boundary, often used as the head or tail of the list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="187639286">
+                <value>
+                  <list>
+                    <Term value="pointers" definition="A pointer is a variable that stores the memory address of another variable." />
+                    <Term value="swap" definition="The swap function takes two pointers to integers and exchanges the values they point to." />
+                    <Term value="swaps" definition="The swap function takes two pointers to integers and exchanges the values they point to." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="223242583">
+                <value>
+                  <list>
+                    <Term value="std::weak_ptr" definition="In C++, std::weak_ptr is a smart pointer that acts as a non-intrusive observer of an object managed by std::shared_ptr, without contributing to its reference count." />
+                    <Term value="std::shared_ptr" definition="In C++, std::shared_ptr is a smart pointer that enables shared ownership of an object, where multiple shared pointers can point to the same object and are responsible for its lifetime." />
+                    <Term value="reference cycles" definition="A reference cycle occurs when two or more objects hold shared pointers to each other, preventing their reference counters from dropping to zero and causing a memory leak in C++." />
+                    <Term value="reference cycle" definition="A reference cycle occurs when two or more objects hold shared pointers to each other, preventing their reference counters from dropping to zero and causing a memory leak in C++." />
+                    <Term value="memory leaks" definition="In C++, a memory leak occurs when dynamically allocated memory is not properly deallocated, often due to unreachable but still-referenced objects." />
+                    <Term value="memory leak" definition="In C++, a memory leak occurs when dynamically allocated memory is not properly deallocated, often due to unreachable but still-referenced objects." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="267632304">
+                <value>
+                  <list>
+                    <Term value="arithmetic assignment operator" definition="In C++, arithmetic assignment operators like +=, -=, *=, and /= combine arithmetic operations with assignment. For example, x += 2 is equivalent to x = x + 2." />
+                    <Term value="arithmetic assignment operators" definition="In C++, arithmetic assignment operators like +=, -=, *=, and /= combine arithmetic operations with assignment. For example, x += 2 is equivalent to x = x + 2." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="344354026">
+                <value>
+                  <list>
+                    <Term value="null pointer" definition="A null pointer in C++ does not point to any actual memory location. Dereferencing it leads to undefined behavior, which can cause a runtime error and crash the program." />
+                    <Term value="nullptr" definition="`nullptr` is a keyword specific to C++ used as a null pointer value. It evaluates to the integer value `0` in a context where an integer is expected." />
+                    <Term value="undefined behavior" definition="In programming, undefined behavior refers to code execution with unpredictable effects, often caused by actions like dereferencing a null pointer." />
+                    <Term value="null" definition="`NULL` is a constant in the C language equivalent to `nullptr` in C++ and represents a null pointer value." />
+                    <Term value="NULL" definition="`NULL` is a constant in the C language equivalent to `nullptr` in C++ and represents a null pointer value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="377784711">
+                <value>
+                  <list>
+                    <Term value="doubly linked list" definition="A data structure that allows storing an arbitrary number of elements and enables dynamic addition or removal of elements. Each node in the list contains a data pointer and pointers to the next and previous nodes." />
+                    <Term value="nodes" definition="A structure used in a doubly linked list, containing a data pointer, a next pointer to the subsequent node, and a prev pointer to the previous node." />
+                    <Term value="Node" definition="A structure used in a doubly linked list, containing a data pointer, a next pointer to the subsequent node, and a prev pointer to the previous node." />
+                    <Term value="node" definition="A structure used in a doubly linked list, containing a data pointer, a next pointer to the subsequent node, and a prev pointer to the previous node." />
+                    <Term value="sentinel node" definition="A special node in a list that does not contain meaningful data but acts as a guard. It helps avoid handling null pointers and simplifies list operations." />
+                    <Term value="createNode" definition="A function that allocates memory for a new node and initializes its data field with a given data pointer." />
+                    <Term value="freeNode" definition="A function that deallocates memory occupied by a node, including the memory pointed to by its data field, assuming it was allocated using malloc." />
+                    <Term value="linked" definition="A function in a doubly linked list that links two nodes, placing one node right after another and updating the next and prev pointers accordingly." />
+                    <Term value="link" definition="A function in a doubly linked list that links two nodes, placing one node right after another and updating the next and prev pointers accordingly." />
+                    <Term value="unlink" definition="A function that removes a node from a doubly linked list by redirecting the next and prev pointers of its neighboring nodes to bypass the node." />
+                    <Term value="initList" definition="A function that initializes a list by setting up a sentinel node whose next and prev pointers point to itself, forming a cycle." />
+                    <Term value="inserts" definition="A function used to insert a new node containing specified data into a doubly linked list." />
+                    <Term value="insert" definition="A function used to insert a new node containing specified data into a doubly linked list." />
+                    <Term value="removes" definition="A function that iterates through a doubly linked list and removes nodes where the data satisfies a given predicate, using unlink and freeNode functions." />
+                    <Term value="remove" definition="A function that iterates through a doubly linked list and removes nodes where the data satisfies a given predicate, using unlink and freeNode functions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="546734997">
+                <value>
+                  <list>
+                    <Term value="ownership" definition="Ownership defines the rules for managing the lifecycle of resources, such as allocated memory blocks, and is a crucial part of modern C++ programming." />
+                    <Term value="Ownership" definition="Ownership defines the rules for managing the lifecycle of resources, such as allocated memory blocks, and is a crucial part of modern C++ programming." />
+                    <Term value="Smart pointers" definition="Smart pointers in C++ (`unique_ptr`, `shared_ptr`, and `weak_ptr`) are classes that manage the lifecycle of dynamically allocated objects and automatically deallocate memory when no longer needed." />
+                    <Term value="Resource Acquisition Is Initialization (RAII)" definition="The RAII idiom ensures that resources are properly released by tying them to the lifetime of objects." />
+                    <Term value="Rule-of-five" definition="The Rule-of-five in C++ states that if a class requires a user-defined destructor, copy constructor, or copy assignment operator, it likely also requires a user-defined move constructor and move assignment operator." />
+                    <Term value="copy-and-swap idiom" definition="The copy-and-swap idiom in C++ is a design pattern that combines copying and swapping to ensure strong exception safety in assignment operators." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="598027405">
+                <value>
+                  <list>
+                    <Term value="static_cast" definition="A type cast operator in C++ that performs type conversion and checks during compilation, used for converting between related types safely." />
+                    <Term value="reinterpret_cast" definition="A type cast operator in C++ that allows for converting any pointer type to any other pointer type, even if such a conversion is unsafe." />
+                    <Term value="std::intptr_t" definition="A signed integer type in C++ guaranteed to have the same size as the size of the pointer type, commonly used for pointer conversions." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="643261225">
+                <value>
+                  <list>
+                    <Term value="object-oriented programming" definition="A programming paradigm that helps to organize code into independent subcomponents, manage the complexity of applications, and streamline the addition of new functionality." />
+                    <Term value="Operator overloading" definition="A feature in C++ that allows developers to redefine the way operators work for user-defined types." />
+                    <Term value="Classes and objects" definition="Core concepts in object-oriented programming where classes define the blueprint of objects, and objects are instances of classes." />
+                    <Term value="Abstract classes and interfaces" definition="Abstract classes provide a base class with some default behavior, while interfaces define a contract that implementing classes must adhere to without providing any implementation." />
+                    <Term value="Constructors and destructors" definition="Special functions in C++: constructors initialize objects when they are created, and destructors clean up resources when objects are destroyed." />
+                    <Term value="Inheritance and subtyping" definition="Mechanism for creating a new class from an existing one, allowing for code reuse and defining hierarchical relationships." />
+                    <Term value="Subtype polymorphism" definition="The ability to treat objects of a derived class as objects of a base class, enabling the use of interfaces or base classes when writing code." />
+                    <Term value="Virtual methods" definition="Methods in C++ that can be overridden in derived classes, allowing dynamic dispatch of method calls at runtime." />
+                    <Term value="Encapsulation and class invariants" definition="Encapsulation involves bundling data and methods together while ensuring data integrity through class invariants." />
+                    <Term value="Static methods, fields, and variables" definition="Members of a class in C++ that belong to the class itself rather than to any specific object instance." />
+                    <Term value="Objects vs structures" definition="In C++, objects are instances of classes with rich features such as inheritance and polymorphism, while structures are similar but default to public access modifiers and are often used for simpler data grouping." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="656697934">
+                <value>
+                  <list>
+                    <Term value="abstract class" definition="An abstract class in programming is a class that cannot be instantiated and often contains one or more abstract methods that must be implemented by its subclasses." />
+                    <Term value="subtype polymorphism" definition="Subtype polymorphism is the ability to treat objects of different classes that implement different behaviors as objects of a common base class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="677640706">
+                <value>
+                  <list>
+                    <Term value="alignment" definition="The alignment of a type is the number of bytes between successive memory addresses at which variables of this type can be allocated. It can be queried using the `alignof` operator." />
+                    <Term value="padding" definition="Padding is inserted by the compiler into the memory layout of structures to properly align all members according to their alignment requirements." />
+                    <Term value="offsetof" definition="The `offsetof` operator is used to calculate the offset of a member field in a structure from the beginning of the memory occupied by the structure." />
+                    <Term value="member access operator" definition="The member access operator (`-&gt;`) is used to access the fields of a structure through its pointer." />
+                    <Term value="C style type cast operator" definition="The C style type cast operator is used to cast a variable from one type to another explicitly in C and C++." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="691340791">
+                <value>
+                  <list>
+                    <Term value="ternary conditional operator" definition="In C++, the ternary conditional operator `?:` allows you to return one of two values based on a condition. The expression `b ? t : e` evaluates to `t` if `b` is true, otherwise to `e`." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="696702487">
+                <value>
+                  <list>
+                    <Term value="int" definition="A platform-dependent predefined integer type in C++, usually occupies 4 bytes and has a value range from -2,147,483,648 to 2,147,483,647." />
+                    <Term value="long" definition="A platform-dependent long integer type in C++, typically takes 8 bytes and has a value range from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807." />
+                    <Term value="unsigned int" definition="An unsigned integer type in C++ that occupies 4 bytes and has a value range from 0 to 4,294,967,295." />
+                    <Term value="std::int8_t" definition="A platform-independent 8-bit signed integer type in C++ with a value range from -128 to 127." />
+                    <Term value="std::uint8_t" definition="A platform-independent 8-bit unsigned integer type in C++ with a value range from 0 to 255." />
+                    <Term value="float" definition="A platform-dependent floating-point number type in C++ that commonly takes 4 bytes, used for approximate decimal values." />
+                    <Term value="double" definition="A double-precision floating-point type in C++ that usually takes 8 bytes, providing better precision than the float type." />
+                    <Term value="char" definition="A type in C++ used to represent a single character in ASCII encoding, occupying exactly 1 byte." />
+                    <Term value="bool" definition="A boolean type in C++ used to represent true or false values, typically occupying 1 byte." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="709606924">
+                <value>
+                  <list>
+                    <Term value="std::string" definition="In C++, `std::string` is a type used to represent textual data." />
+                    <Term value="C-style strings" definition="In C, a string is represented as a pointer to the `char` type and is terminated with the special character `\0`." />
+                    <Term value="C-style string" definition="In C, a string is represented as a pointer to the `char` type and is terminated with the special character `\0`." />
+                    <Term value="strlen" definition="The `strlen` function is provided by the C standard library to compute the length of a C-style string by iterating until the `\0` character is found." />
+                    <Term value="getline" definition="The `getline` function in C++ is used to read a C-style string from input and prevents memory from being overwritten beyond the string's end by considering its length." />
+                    <Term value="string literals" definition="String literals, also called static strings, are strings defined within the program text and stored in a read-only immutable region of static memory." />
+                    <Term value="String literals" definition="String literals, also called static strings, are strings defined within the program text and stored in a read-only immutable region of static memory." />
+                    <Term value="string literal" definition="String literals, also called static strings, are strings defined within the program text and stored in a read-only immutable region of static memory." />
+                    <Term value="c_str" definition="In C++, the `c_str` method converts a `std::string` to a C-style string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="742587605">
+                <value>
+                  <list>
+                    <Term value="std::unique_ptr" definition="A smart pointer in C++ designed to manage the lifetime of dynamically allocated objects with exclusive ownership semantics, ensuring automatic destruction and memory deallocation when the pointer is destroyed or reset." />
+                    <Term value="reset()" definition="A method of std::unique_ptr that explicitly resets the pointer to null, triggering the deletion of the pointed-to object." />
+                    <Term value="release()" definition="A method of std::unique_ptr that removes the pointer together with its ownership from the unique pointer, transferring the object to a plain pointer." />
+                    <Term value="get()" definition="A method of std::unique_ptr that returns a plain pointer to the object without transferring ownership, typically used to pass the unique pointer to functions expecting plain pointers." />
+                    <Term value="std::make_unique" definition="A function template in C++ used to create dynamically allocated objects managed by std::unique_ptr, simplifying the process and ensuring safe memory management." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="793851439">
+                <value>
+                  <list>
+                    <Term value="debugger" definition="A debugger is a tool that allows programmers to step through their program, execute it step by step, and inspect the state of the variables during execution." />
+                    <Term value="bugs" definition="Bugs are mistakes or errors in a program that cause it to produce incorrect or unexpected results." />
+                    <Term value="approachingLoop" definition="The `approachingLoop` function detects when a player object approaches consumable objects in the game and sets the corresponding flags in a boolean array to reflect the proximity state." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="811498572">
+                <value>
+                  <list>
+                    <Term value="Move semantics" definition="A feature of C++ that allows efficient transfer of ownership of an object without copying. This can improve performance and avoid unnecessary memory allocations." />
+                    <Term value="move semantics" definition="A feature of C++ that allows efficient transfer of ownership of an object without copying. This can improve performance and avoid unnecessary memory allocations." />
+                    <Term value="lvalue" definition="An expression that represents an object with a name or identifier, existing in memory and typically persisting beyond a single expression. It usually appears on the left-hand side of an assignment operator." />
+                    <Term value="rvalue" definition="An expression that represents a temporary or disposable value, usually the intermediate result of some computation. It often appears on the right-hand side of an assignment operator." />
+                    <Term value="move constructor" definition="A constructor in C++ that takes an rvalue reference as an argument, allowing ownership transfer by moving resources rather than copying them." />
+                    <Term value="std::move" definition="A standard function in C++ that converts an lvalue into an rvalue reference, enabling manual ownership transfer between objects." />
+                    <Term value="std::unique_ptr" definition="A smart pointer in C++ that supports move semantics, transferring ownership of the managed object to another pointer while leaving the source pointer in a null state." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="841812685">
+                <value>
+                  <list>
+                    <Term value="operator overloading" definition="A feature in C++ that allows you to define various operators, such as `+`, `-`, `*`, for your custom data types." />
+                    <Term value="operator overload" definition="A feature in C++ that allows you to define various operators, such as `+`, `-`, `*`, for your custom data types." />
+                    <Term value="Point2D" definition="A custom data type used to represent a point with x and y coordinates in the game context." />
+                    <Term value="Rectangle" definition="A shape data type defined by two points — its top-left and bottom-right corners." />
+                    <Term value="rectangle" definition="A shape data type defined by two points — its top-left and bottom-right corners." />
+                    <Term value="Circle" definition="A shape data type with a center and a radius, commonly used in graphical implementations." />
+                    <Term value="circle" definition="A shape data type with a center and a radius, commonly used in graphical implementations." />
+                    <Term value="std::ostream" definition="An output stream type in C++ used for writing data to destinations such as files or the terminal." />
+                    <Term value="std::istream" definition="An input stream type in C++ used for reading data from sources such as files or the terminal." />
+                    <Term value="unary minus operator" definition="An operator in C++ that changes the sign of both coordinates of a single point." />
+                    <Term value="equality comparison operators" definition="Operators in C++ that can be overloaded to compare custom data types for equality." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="862067153">
+                <value>
+                  <list>
+                    <Term value="std::string" definition="In C++, std::string is a class provided by the standard library to represent and manipulate sequences of characters." />
+                    <Term value="std::cin" definition="In C++, std::cin is the standard input stream used to read data from the user." />
+                    <Term value="std::cout" definition="In C++, std::cout is the standard output stream used to print data to the console." />
+                    <Term value="statements" definition="In C++, a statement is an individual computation step that ends with a semicolon ';'." />
+                    <Term value="statement" definition="In C++, a statement is an individual computation step that ends with a semicolon ';'." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="891080999">
+                <value>
+                  <list>
+                    <Term value="Point2D" definition="Point2D is a custom type in C++ defined using the struct keyword, representing a 2D point with x and y coordinates of type float." />
+                    <Term value="struct" definition="A struct in C++ is a user-defined type that groups together variables, known as members, under a single name." />
+                    <Term value="abstractions" definition="In programming, abstraction is a concept that allows for creating models, such as 2D points, to simplify and encapsulate the details of a computational task." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="892690813">
+                <value>
+                  <list>
+                    <Term value="references" definition="References in C++ are similar to constant pointers, storing the address of a variable and cannot be reassigned." />
+                    <Term value="References" definition="References in C++ are similar to constant pointers, storing the address of a variable and cannot be reassigned." />
+                    <Term value="reference" definition="References in C++ are similar to constant pointers, storing the address of a variable and cannot be reassigned." />
+                    <Term value="referenced" definition="References in C++ are similar to constant pointers, storing the address of a variable and cannot be reassigned." />
+                    <Term value="nullptr" definition="A special value in C++ indicating that a pointer does not point to any object; references cannot be initialized with nullptr." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="911313023">
+                <value>
+                  <list>
+                    <Term value="std::unique_ptr&lt;T&gt;" definition="A smart pointer in C++ that ensures unique ownership of a dynamically allocated object. It automatically deallocates the object when it goes out of scope." />
+                    <Term value="std::shared_ptr&lt;T&gt;" definition="A smart pointer in C++ that provides shared ownership of a dynamically allocated object. It uses reference counting to manage the object's lifecycle." />
+                    <Term value="std::weak_ptr&lt;T&gt;" definition="A smart pointer in C++ that acts as a non-intrusive observer of an object owned by std::shared_ptr, preventing circular dependencies without taking ownership." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="911995171">
+                <value>
+                  <list>
+                    <Term value="pointer arithmetic" definition="Pointer arithmetic includes adding and subtracting integer offsets to pointers, incrementing and decrementing pointers, and computing the distance between pointers." />
+                    <Term value="undefined behavior" definition="Undefined behavior occurs when accessing memory cells outside the memory chunk occupied by an array, leading to unpredictable program behavior." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="932533883">
+                <value>
+                  <list>
+                    <Term value="collision detector" definition="A collision detector is a mechanism or function that signals when two objects collide within a scene." />
+                    <Term value="circle" definition="In programming, a Circle structure could represent a geometric shape, defined by its center (a Point2D) and its radius." />
+                    <Term value="Circle" definition="In programming, a Circle structure could represent a geometric shape, defined by its center (a Point2D) and its radius." />
+                    <Term value="circles" definition="In programming, a Circle structure could represent a geometric shape, defined by its center (a Point2D) and its radius." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="962532016">
+                <value>
+                  <list>
+                    <Term value="Pointers" definition="A variable that stores the address of another variable, allowing indirect access to memory and enabling operations like pointer arithmetic." />
+                    <Term value="pointer" definition="A variable that stores the address of another variable, allowing indirect access to memory and enabling operations like pointer arithmetic." />
+                    <Term value="Dynamic memory allocation" definition="The process of allocating memory during the runtime of a program, usually using operators like 'new' and 'delete' in C++." />
+                    <Term value="static, stack, and heap memory regions" definition="Memory layout of a program, comprising static memory (for global/static variables), stack memory (for function calls and local variables), and heap memory (for dynamically allocated memory)." />
+                    <Term value="memory-related bugs" definition="Potential bugs such as memory leaks, dangling pointers, and buffer overflows that arise due to improper use or management of memory, with various techniques available to prevent them." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="980879362">
+                <value>
+                  <list>
+                    <Term value="inheritance" definition="In object-oriented programming, inheritance is a mechanism that allows extending an existing class and providing concrete implementations for its virtual functions." />
+                    <Term value="constructor" definition="A constructor is a special method in a class that has the same name as the class itself and is called to create an instance of an object and initialize its state." />
+                    <Term value="Constructors" definition="A constructor is a special method in a class that has the same name as the class itself and is called to create an instance of an object and initialize its state." />
+                    <Term value="constructors" definition="A constructor is a special method in a class that has the same name as the class itself and is called to create an instance of an object and initialize its state." />
+                    <Term value="destructor" definition="A destructor is a method in a class that has the same name as the class prefixed with '~' and is automatically called before the destruction of an object to perform cleanup routines." />
+                    <Term value="destructors" definition="A destructor is a method in a class that has the same name as the class prefixed with '~' and is automatically called before the destruction of an object to perform cleanup routines." />
+                    <Term value="constructor initializer list" definition="A constructor initializer list is used in C++ to initialize an object's fields before the constructor body is executed, and the order should match the declaration order." />
+                    <Term value="override" definition="The override keyword in C++ indicates that a method is overriding a virtual method from its base class." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1015335821">
+                <value>
+                  <list>
+                    <Term value="statically-typed language" definition="In statically-typed languages like C++, each variable has a fixed type that needs to be known before the program is run." />
+                    <Term value="Uninitialized variables" definition="An uninitialized variable in C++ lacks a defined value, which leads to undefined behavior." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1104725188">
+                <value>
+                  <list>
+                    <Term value="pointers" definition="A pointer is a variable that stores the memory address of another variable and allows storage and manipulation of the addresses in memory." />
+                    <Term value="garbage collector" definition="A garbage collector is a language subsystem that automatically deallocates memory, freeing up unused memory for reuse and relieving the programmer of manual memory management." />
+                    <Term value="global static memory" definition="In C++, global static memory is a memory region allocated for global and static variables, with fixed allocation at program runtime." />
+                    <Term value="stack memory" definition="Stack memory is a region in C++ where function call data, including local variables and return addresses, is allocated and deallocated in a last-in, first-out manner." />
+                    <Term value="dynamic heap memory" definition="Dynamic heap memory in C++ is a region that allows programmers to manually allocate and deallocate memory during program execution for flexibility." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1115762628">
+                <value>
+                  <list>
+                    <Term value="memory cells" definition="A memory cell is a fundamental unit of memory in a computer. In modern computers, the size of an individual memory cell is one byte." />
+                    <Term value="memory cell" definition="A memory cell is a fundamental unit of memory in a computer. In modern computers, the size of an individual memory cell is one byte." />
+                    <Term value="address" definition="The address of a memory cell is a unique number associated with it, used to identify its location in the computer's memory." />
+                    <Term value="addresses" definition="The address of a memory cell is a unique number associated with it, used to identify its location in the computer's memory." />
+                    <Term value="hexadecimal format" definition="Memory addresses are traditionally displayed in hexadecimal format, which is a base-16 numeral system." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1151955595">
+                <value>
+                  <list>
+                    <Term value="size_t" definition="The size_t type is designed to store the size of other types in bytes. It is an unsigned integer type and its value range spans from 0 to the maximum number of addressable memory cells on the given machine." />
+                    <Term value="ptrdiff_t" definition="The ptrdiff_t type is used to store the difference between two pointers. It is a signed integer type, meaning its value range includes negative values." />
+                    <Term value="char*" definition="The char* type is a pointer type whose size depends on the system's processor - typically 4 bytes on 32-bit systems and 8 bytes on 64-bit systems." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1185355625">
+                <value>
+                  <list>
+                    <Term value="Address Escape" definition="Address escape is a memory error that occurs when a pointer to a memory location within the local scope of a function escapes the function and is used outside of it after the function has returned." />
+                    <Term value="address escape" definition="Address escape is a memory error that occurs when a pointer to a memory location within the local scope of a function escapes the function and is used outside of it after the function has returned." />
+                    <Term value="Out-of-Bounds Access" definition="Out-of-bounds access is a memory-related bug involving accessing memory outside the allocated range." />
+                    <Term value="out-of-bounds access" definition="Out-of-bounds access is a memory-related bug involving accessing memory outside the allocated range." />
+                    <Term value="Memory Leak" definition="A memory leak occurs when dynamically allocated memory cannot be deallocated because the pointer to it is lost." />
+                    <Term value="memory leak" definition="A memory leak occurs when dynamically allocated memory cannot be deallocated because the pointer to it is lost." />
+                    <Term value="Use After Free" definition="Use after free is a memory error that occurs when attempting to access memory after it has been deallocated, resulting in undefined behavior." />
+                    <Term value="Double Free" definition="Double free is a memory error that occurs when an attempt is made to deallocate memory a second time after it has already been freed." />
+                    <Term value="AddressSanitizer" definition="AddressSanitizer is a runtime tool that monitors the program for memory errors by injecting additional checks to ensure compliance with memory management rules." />
+                    <Term value="Valgrind Memcheck" definition="Valgrind Memcheck is a runtime tool used to detect and debug memory errors, such as invalid memory accesses or memory leaks, during a program's execution." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1207443236">
+                <value>
+                  <list>
+                    <Term value="static_cast" definition="The 'static_cast' operator in C++ performs a sequence of implicit and user-defined type conversions, ensuring safety by reporting errors at compile time. It is recommended for explicit type conversion to help identify potential error-prone code." />
+                    <Term value="reinterpret_cast" definition="The 'reinterpret_cast' operator in C++ allows reinterpreting the type of a pointed-to memory region without changing the actual values, but it does not perform safety checks, making it susceptible to undefined behavior." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1236700959">
+                <value>
+                  <list>
+                    <Term value="copy constructor" definition="In C++, a copy constructor is a special constructor used to create a new object as a copy of an existing object." />
+                    <Term value="destructor" definition="In C++, a destructor is a special member function of a class that is executed whenever an object of that class's type goes out of scope or is explicitly deleted." />
+                    <Term value="copy assignment operator" definition="In C++, the copy assignment operator is used to assign values from one object to another of the same type through the '=' operator." />
+                    <Term value="array subscript operators" definition="In C++, the array subscript operator allows access to elements of an array through indexing, and it can be overloaded for custom behavior in classes." />
+                    <Term value="array subscript operator" definition="In C++, the array subscript operator allows access to elements of an array through indexing, and it can be overloaded for custom behavior in classes." />
+                    <Term value="nullptr" definition="In C++, nullptr is a keyword representing a null pointer constant, which is safer and more explicit than using NULL or 0." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1243903120">
+                <value>
+                  <list>
+                    <Term value="pointer" definition="In C++, a pointer is a variable that stores the address of a memory cell. Pointers are additionally typed based on the type of the memory region they point to, e.g., `int*` for pointers pointing to an integer." />
+                    <Term value="pointers" definition="In C++, a pointer is a variable that stores the address of a memory cell. Pointers are additionally typed based on the type of the memory region they point to, e.g., `int*` for pointers pointing to an integer." />
+                    <Term value="dereferencing operator" definition="The dereferencing operator `*` is used in C++ to access or modify the value that a pointer points to." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1307427631">
+                <value>
+                  <list>
+                    <Term value="std::shared_ptr" definition="`std::shared_ptr` is a C++ smart pointer class that provides shared ownership semantics, allowing multiple pointers to manage the same dynamically allocated object using reference counting." />
+                    <Term value="std::unique_ptr" definition="`std::unique_ptr` is a C++ smart pointer class that provides exclusive ownership semantics for managing the lifecycle of a dynamically allocated object." />
+                    <Term value="std::make_shared" definition="`std::make_shared` is a C++ function that creates an object and returns a `std::shared_ptr` managing it, improving performance by reducing memory allocation overhead." />
+                    <Term value="use_count" definition="The `use_count()` function in `std::shared_ptr` returns the current number of `std::shared_ptr` instances managing the same object." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1324014430">
+                <value>
+                  <list>
+                    <Term value="Static memory" definition="Static memory contains all the global variables, as well as the program code itself. It is allocated and initialized at the start of the program and is freed only upon program termination." />
+                    <Term value="Static Memory" definition="Static memory contains all the global variables, as well as the program code itself. It is allocated and initialized at the start of the program and is freed only upon program termination." />
+                    <Term value="global variables" definition="Global variables are variables defined at the global scope, accessible throughout the entire runtime of the program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1353016492">
+                <value>
+                  <list>
+                    <Term value="stack" definition="Stack is a memory region used for local variables declared inside functions. It follows the Last In, First Out (LIFO) policy and resembles the stack data structure." />
+                    <Term value="Stack" definition="Stack is a memory region used for local variables declared inside functions. It follows the Last In, First Out (LIFO) policy and resembles the stack data structure." />
+                    <Term value="stack frames" definition="Each stack frame is a chunk of memory in the stack that contains all the local variables of a single function call." />
+                    <Term value="stack frame" definition="Each stack frame is a chunk of memory in the stack that contains all the local variables of a single function call." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1431255614">
+                <value>
+                  <list>
+                    <Term value="rand" definition="A C++ function that generates a random integer number between 0 and RAND_MAX." />
+                    <Term value="RAND" definition="A C++ function that generates a random integer number between 0 and RAND_MAX." />
+                    <Term value="RAND_MAX" definition="A constant in C++ that defines the maximum possible value returned by the rand function." />
+                    <Term value="srand" definition="A C++ function used to initialize the random number generator with a specific seed value." />
+                    <Term value="generateCoordinate" definition="A function that generates a random floating-point number within a certain range by using a formula." />
+                    <Term value="generateCircle" definition="A function in C++ that generates a random circle with a given radius within the borders of a scene." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1441809230">
+                <value>
+                  <list>
+                    <Term value="control-flow operators" definition="Basic control-flow operators in C++ include conditionals, switches, and loops, which guide the execution flow of a program." />
+                    <Term value="Arrays" definition="Arrays in C++ are used to store a fixed-size sequential collection of elements of the same type." />
+                    <Term value="structures" definition="Structures in C++ are custom data types that group together different variables under one type." />
+                    <Term value="enums" definition="Enums in C++ are user-defined data types that consist of a set of named integral constants." />
+                    <Term value="Decomposition of programs" definition="Decomposition of programs in C++ involves breaking a program into smaller, manageable functions for better organisation and readability." />
+                    <Term value="CMake" definition="CMake is a build system generator that helps manage the build process of software projects written in C++." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1504863152">
+                <value>
+                  <list>
+                    <Term value="CollisionInfo" definition="A structure that contains information about a collision in a game, including a boolean flag 'collide' to indicate if a collision occurred and a 'distance' value representing the distance between two objects." />
+                    <Term value="collisionInfo" definition="A structure that contains information about a collision in a game, including a boolean flag 'collide' to indicate if a collision occurred and a 'distance' value representing the distance between two objects." />
+                    <Term value="struct" definition="In C++, a struct is a simple data container with predictable memory layout and behavior, often used to group related variables. Members are 'public' by default." />
+                    <Term value="class" definition="In C++, a class is used to combine data and behavior, providing encapsulation and polymorphism. Members are 'private' by default and visibility needs to be explicitly defined." />
+                    <Term value="POD types" definition="In C++, POD (Plain Old Data) types refer to structures or classes with a simple memory layout and no virtual functions, making them predictable and efficient for data storage." />
+                    <Term value="CONSUMABLE_WARNED_MULTIPLIER" definition="A constant multiplier used to determine the distance within which a consumable object becomes 'WARNED' when another object approaches it in the game." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1527203786">
+                <value>
+                  <list>
+                    <Term value="abstract class" definition="An abstract class in C++ is a class that contains pure virtual methods and cannot be instantiated. It allows for having different implementations through its subclasses." />
+                    <Term value="static variable" definition="A static variable in C++ retains its value between function calls and is stored in the static memory region of the program." />
+                    <Term value="Static members" definition="A static member of a class is a member that is associated with the class itself, not with any object instances. It can be accessed using the class name." />
+                    <Term value="static member" definition="A static member of a class is a member that is associated with the class itself, not with any object instances. It can be accessed using the class name." />
+                    <Term value="static members" definition="A static member of a class is a member that is associated with the class itself, not with any object instances. It can be accessed using the class name." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1543486324">
+                <value>
+                  <list>
+                    <Term value="object" definition="In object-oriented programming, an object groups together data (called the state) and a set of functions that operate on this data (called the methods)." />
+                    <Term value="objects" definition="In object-oriented programming, an object groups together data (called the state) and a set of functions that operate on this data (called the methods)." />
+                    <Term value="Objects" definition="In object-oriented programming, an object groups together data (called the state) and a set of functions that operate on this data (called the methods)." />
+                    <Term value="class" definition="A class in object-oriented programming is a blueprint from which objects are created; it defines a type of objects." />
+                    <Term value="docstring" definition="A specially formatted comment used to document a specific segment of code, common in C/C++ libraries and frameworks to document APIs." />
+                    <Term value="getter" definition="A getter method is used to retrieve the value of a property of an object." />
+                    <Term value="setter" definition="A setter method is used to change the value of a property of an object." />
+                    <Term value="constant methods" definition="A constant method, denoted by the 'const' keyword in C++, is a method that cannot change the state of the object." />
+                    <Term value="virtual method" definition="A virtual method in C++ is a method that can be overridden by inheritors of the class." />
+                    <Term value="virtual methods" definition="A virtual method in C++ is a method that can be overridden by inheritors of the class." />
+                    <Term value="pure virtual methods" definition="A pure virtual method in C++, indicated by '= 0' syntax, is a method declared in a class but not implemented, acting as a stub for subclasses to implement." />
+                    <Term value="interfaces" definition="An interface is a class that does not declare any data fields and contains pure virtual methods, providing a description of the objects' behavior without specifying internal status." />
+                    <Term value="interface" definition="An interface is a class that does not declare any data fields and contains pure virtual methods, providing a description of the objects' behavior without specifying internal status." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1562916100">
+                <value>
+                  <list>
+                    <Term value="destructor" definition="A destructor is a special member function in a class that is called when an object is destroyed; it is explicitly called for objects constructed with the placement new operator." />
+                    <Term value="storage duration" definition="Storage duration refers to the lifetime of the memory allocated for an object, which remains unchanged even if the object within that memory is replaced." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1572869330">
+                <value>
+                  <list>
+                    <Term value="EnemyObject" definition="A class inheriting from CircleGameObject, representing enemy objects in the game distinguished by the method getKind() returning GameObjectKind::ENEMY." />
+                    <Term value="velocity" definition="A vector field in the EnemyObject class storing the direction and speed of the object's current velocity." />
+                    <Term value="updateTimer" definition="A field in the EnemyObject class storing the time elapsed since the last update of the object's velocity." />
+                    <Term value="getVelocity" definition="A method in the EnemyObject class that returns the value of the velocity field." />
+                    <Term value="update(sf::Time delta)" definition="A method in the EnemyObject class that periodically updates the object's velocity using the elapsed time since the last velocity update." />
+                    <Term value="onCollision" definition="A method that should be modified in the PlayerObject class to handle collision with an enemy object by setting the player's status to DESTROYED." />
+                    <Term value="GameTextureID::BLACKHOLE" definition="An ID corresponding to a special texture used for visualizing enemy objects as black holes." />
+                    <Term value="PlayerObject::onCollision" definition="A method in the PlayerObject class that checks if the collision occurred with an enemy object and sets the player's status to DESTROYED." />
+                    <Term value="generateBool" definition="A function to generate a boolean value with a probability of true defined by the prob parameter." />
+                    <Term value="generateInt" definition="A function to generate a random integer within a specified range defined by min and max." />
+                    <Term value="generateFloat" definition="A function to generate a random floating-point number within a specified range defined by min and max." />
+                    <Term value="generatePoint" definition="A function to generate a random point within a specified bounding box." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1596188677">
+                <value>
+                  <list>
+                    <Term value="ownership" definition="In C++, ownership refers to the responsibility of managing the lifecycle of resources such as memory, files, and network connections." />
+                    <Term value="Ownership" definition="In C++, ownership refers to the responsibility of managing the lifecycle of resources such as memory, files, and network connections." />
+                    <Term value="constructors and destructors" definition="Constructors are called in a specific order during object creation, starting with base class constructors, followed by sub-object constructors, and ending with the derived class constructor. Destruction occurs in reverse order." />
+                    <Term value="smart pointers" definition="Smart pointers like `std::unique_ptr` and `std::shared_ptr` in C++ provide automated memory management and ownership semantics, reducing risks of memory-related issues." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1605541553">
+                <value>
+                  <list>
+                    <Term value="pointToSameValue" definition="A function that checks whether the values of the variables two pointers point to are equal in C++." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1616388500">
+                <value>
+                  <list>
+                    <Term value="dynamic memory region" definition="Dynamic memory region allows bypassing the limitations of static and stack memory regions by managing allocated memory dynamically and manually." />
+                    <Term value="C style type cast operator" definition="The C style type cast operator is used to convert an untyped void* pointer returned by malloc to a typed pointer like char*." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1676633014">
+                <value>
+                  <list>
+                    <Term value="function pointer" definition="A function pointer in C++ is a pointer that points to the address of a function. It can be used to invoke the function indirectly." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1681252549">
+                <value>
+                  <list>
+                    <Term value="rand()" definition="A function in the C standard library used to generate random numbers." />
+                    <Term value="C-style memory management" definition="Memory management approach in C with functions like `malloc` and `free`, closer to the hardware and low-level operations." />
+                    <Term value="C++ memory management primitives" definition="Higher-level memory management alternatives in C++ connected to features such as the object system and resource ownership." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1730230096">
+                <value>
+                  <list>
+                    <Term value="stack memory management" definition="A memory management policy where local variables are allocated on the stack and deallocated when the function returns." />
+                    <Term value="call stack" definition="The stack structure that manages function calls in a program, ensuring that called functions return control to the callers in an organized manner." />
+                    <Term value="stack frame" definition="A memory block that contains local variables and execution context for a single function call." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1741900836">
+                <value>
+                  <list>
+                    <Term value="coordinates" definition="In a two-dimensional scene, the position of an object is defined by two coordinates: the horizontal x-coordinate and the vertical y-coordinate." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1758066928">
+                <value>
+                  <list>
+                    <Term value="unit vector" definition="Represents the vector of a particular direction with specific values, for example, `{ 0.0f, -1.0f }` for North or `{ 1.0f, 0.0f }` for East." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1786442880">
+                <value>
+                  <list>
+                    <Term value="strpbrk" definition="A function from the standard library that searches for the first occurrence of any of the separator characters in the given string." />
+                    <Term value="strspn" definition="A function from the standard library that returns the size of a substring from the given string consisting of only the separator characters." />
+                    <Term value="strncpy" definition="A function from the standard library that copies a specific number of characters from one string to another." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1804258122">
+                <value>
+                  <list>
+                    <Term value="passed by value" definition="In C++, arguments are passed to the function by value by default, meaning the arguments are copied, and modifications to them within the function do not affect the original variables." />
+                    <Term value="passed by reference" definition="In C++, passing arguments by reference involves providing the memory address of a variable instead of its actual value, allowing the function to modify the original variable and avoiding the cost of copying large structures." />
+                    <Term value="passing by pointers" definition="In C++, passing arguments by pointer involves providing the memory address of an object and using pointer dereferencing within the function to access or modify the object." />
+                    <Term value="pointer arithmetic" definition="Pointer arithmetic in C++ refers to operations on pointers, such as incrementing or decrementing them, to navigate memory addresses." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1829408753">
+                <value>
+                  <list>
+                    <Term value="C-style strings" definition="C-style strings are arrays of characters in C and C++ programming, terminated with a null-character '\0'." />
+                    <Term value="null-terminator character" definition="The null-terminator character '\0' marks the end of a C-style string." />
+                    <Term value="strcat" definition="In the C standard library, strcat is a function that concatenates the source string to the destination string, modifying the destination string, and requires that sufficient memory is already allocated for the result." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1837007322">
+                <value>
+                  <list>
+                    <Term value="const int*" definition="In C++, `const int*` represents pointers to constant integer variables, indicating that the pointed-to memory is immutable but the pointer itself is not constant and can be reassigned." />
+                    <Term value="int* const" definition="In C++, `int* const` represents a constant pointer to a mutable integer variable, meaning the pointer itself cannot be reassigned but the variable it points to can be modified." />
+                    <Term value="const int* const" definition="In C++, `const int* const` represents a constant pointer to a constant integer, indicating that both the pointer and the memory value it points to are immutable." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1927697951">
+                <value>
+                  <list>
+                    <Term value="array" definition="An array in C++ is a collection of several variables of the same type stored in a contiguous block of memory. Elements are accessed using zero-based indexing with square bracket syntax." />
+                    <Term value="arrays" definition="An array in C++ is a collection of several variables of the same type stored in a contiguous block of memory. Elements are accessed using zero-based indexing with square bracket syntax." />
+                    <Term value="increment operator" definition="The increment operator `++` in C++ increases the value of a variable by 1. It can be used in two forms: pre-increment (`++x`) updates and returns the new value, and post-increment (`x++`) updates but returns the original value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1965960933">
+                <value>
+                  <list>
+                    <Term value="Rule of five" definition="The Rule of five states that if a class requires a custom destructor, copy constructor, copy assignment operator, move constructor, or move assignment operator, it should implement all five to properly manage resource ownership." />
+                    <Term value="rule of five" definition="The Rule of five states that if a class requires a custom destructor, copy constructor, copy assignment operator, move constructor, or move assignment operator, it should implement all five to properly manage resource ownership." />
+                    <Term value="= default" definition="The `= default` syntax enforces the generation of default implementations for special member functions of a class, such as constructors or assignment operators." />
+                    <Term value="= delete" definition="The `= delete` syntax explicitly forbids generating default implementations for special member functions such as constructors or assignment operators." />
+                    <Term value="Copy-and-Swap idiom" definition="The Copy-and-Swap idiom is a technique to implement the assignment operator efficiently. It uses a local copy of the argument, swaps its data with the current object, and allows the local copy to safely release old resources when destructed." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1988427257">
+                <value>
+                  <list>
+                    <Term value="division remainder operator" definition="The '%' symbol in C++ is the division remainder operator, used to compute the remainder of an integer division." />
+                    <Term value="compile time" definition="Compile time is the phase in program lifecycle when the code is translated into executable form, and static constants like COUNT are evaluated." />
+                    <Term value="run time" definition="Run time refers to the period when a program is running, during which dynamic variables like count are evaluated and used." />
+                    <Term value="variable length array" definition="A variable length array in C++ refers to an array where the size is determined dynamically at runtime, but its usage is not supported in standard C++." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2020615914">
+                <value>
+                  <list>
+                    <Term value="null pointer" definition="A null pointer is a pointer that does not point to any memory location and is often used to indicate the absence of a resource." />
+                    <Term value="pointer" definition="A pointer in C++ is a variable that stores the memory address of another variable." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2048215991">
+                <value>
+                  <list>
+                    <Term value="implicit type conversions" definition="Implicit type conversion in C and C++ is an automatic type change from one data type to another, such as converting an `int` to a `double` when passing it to a function expecting a `double`." />
+                    <Term value="C-style type cast operator" definition="The C-style type cast operator in C and C++ performs explicit type conversions and is very permissive, but lacks safety checks, which can lead to undefined behavior." />
+                    <Term value="malloc" definition="`malloc` is a function in C and C++ that allocates a contiguous memory region and returns a pointer of type `void*`." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2097510149">
+                <value>
+                  <list>
+                    <Term value="Scene" definition="The Scene class in a game engine is responsible for handling user input, managing game objects and their updates, drawing graphics on the window, and other activities. It is the main workhorse of a simple game engine." />
+                    <Term value="scene" definition="The Scene class in a game engine is responsible for handling user input, managing game objects and their updates, drawing graphics on the window, and other activities. It is the main workhorse of a simple game engine." />
+                    <Term value="visibility modifiers" definition="Visibility modifiers regulate how clients interact with class objects. Public members are accessible outside the class, protected members are accessible within the class and its descendants, and private members are accessible only within the class. Exceptionally, a friend class can access protected and private members." />
+                    <Term value="encapsulation" definition="Encapsulation is a principle where the visibility of certain fields and methods of a class is restricted to control an object's internal state and ensure it remains valid." />
+                    <Term value="Encapsulation" definition="Encapsulation is a principle where the visibility of certain fields and methods of a class is restricted to control an object's internal state and ensure it remains valid." />
+                    <Term value="public interface" definition="The public interface of a class denotes the publicly accessible fields and methods, allowing external clients to interact with its objects." />
+                    <Term value="invariants" definition="An invariant in a class is a condition that ensures the class maintains a valid state for its objects. For example, ensuring that all game objects in a scene remain within its visible borders." />
+                    <Term value="invariant" definition="An invariant in a class is a condition that ensures the class maintains a valid state for its objects. For example, ensuring that all game objects in a scene remain within its visible borders." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2100131281">
+                <value>
+                  <list>
+                    <Term value="constructor" definition="A constructor is a mandatory element in a class that is responsible for creating an object." />
+                    <Term value="constructors" definition="A constructor is a mandatory element in a class that is responsible for creating an object." />
+                    <Term value="destructor" definition="A destructor is a mandatory element in a class that is responsible for destroying an object." />
+                    <Term value="lifetime" definition="The period of time between the construction of an object through one of its constructors and its destruction through the destructor." />
+                    <Term value="lifetimes" definition="The period of time between the construction of an object through one of its constructors and its destruction through the destructor." />
+                    <Term value="storage duration" definition="The time between the allocation of a memory region and its deallocation." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2132052242">
+                <value>
+                  <list>
+                    <Term value="std::cout" definition="In C++, `std::cout` is used to print text to the standard output." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="44" />
+      </map>
+    </termsVersions>
+  </component>
+</project>

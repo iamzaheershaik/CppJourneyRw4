@@ -1,0 +1,3 @@
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/CMakeFiles/googletest.dir
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/CMakeFiles/edit_cache.dir
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/CMakeFiles/rebuild_cache.dir

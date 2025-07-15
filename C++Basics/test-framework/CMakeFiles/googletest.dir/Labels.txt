@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/CMakeFiles/googletest
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/CMakeFiles/googletest.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/CMakeFiles/googletest-complete.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/home/faizan/CppJourneyRw4/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-update.rule

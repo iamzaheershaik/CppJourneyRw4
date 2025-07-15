@@ -1,0 +1,43 @@
+type: edu
+custom_name: New and Delete Operators
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 83
+        length: 49
+        placeholder_text: // Create and delete Book object using new/delete
+        initial_state:
+          length: 49
+          offset: 83
+        initialized_from_dependency: false
+        encrypted_possible_answer: Mu4fge18TlZ1T++9yw+8vo7qnKuLWHMrFPmuOZu4HEADsSg6ZkBddR6Y45HfME1lr0ZKWYxHppaHwV44ZIM12JXsMS0/JegWbsR/3NCb6HQ=
+        selected: false
+        status: Unchecked
+      - offset: 167
+        length: 32
+        placeholder_text: // Do the same using malloc/free
+        initial_state:
+          length: 32
+          offset: 167
+        initialized_from_dependency: false
+        encrypted_possible_answer: Mu4fge18TlZ1T++9yw+8vtswCJ5Jac1nuUQUGhBd19tvt537l6g6k0mXj5vgo8eVAEigUsnFNbtpGmstZP3Aa2iRMxJDVOXFYxygZG9mS30=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: include/book.hpp
+    visible: true
+    editable: false
+    learner_created: false
+  - name: src/book.cpp
+    visible: true
+    editable: false
+    learner_created: false
+status: Unchecked
+record: -1

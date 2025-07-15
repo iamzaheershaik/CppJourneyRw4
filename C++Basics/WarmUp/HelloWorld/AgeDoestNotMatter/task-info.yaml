@@ -1,0 +1,52 @@
+type: output
+custom_name: Age Does Not Matter
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    placeholders:
+      - offset: 132
+        length: 21
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 136
+        initialized_from_dependency: false
+        encrypted_possible_answer: HcNcq/fMif5mNxEEDDKVcrcuuWNEMt1aVqk/cF1ttoU=
+        selected: true
+        status: Solved
+      - offset: 284
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 191
+        initialized_from_dependency: false
+        encrypted_possible_answer: YdHlJKrHwXknbeLzU1UAnpiYlo9NhGds7farGKjEr08=
+        selected: true
+        status: Solved
+      - offset: 299
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 206
+        initialized_from_dependency: false
+        encrypted_possible_answer: d8UH81JQxxEhK0gFMKMx6M+VXq5lT6D+W5Z0nk+pxYAynO0yZnbM7303iOYueuuZ7dIgqyQb0t39RfihQSEi+A==
+        selected: false
+        status: Solved
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Hello+World!/Age+Does+Not+Matter
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 10 Jul 2025 01:50:27 UTC"
+record: -1

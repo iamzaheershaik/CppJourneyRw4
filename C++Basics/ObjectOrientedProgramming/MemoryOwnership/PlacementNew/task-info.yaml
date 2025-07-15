@@ -1,0 +1,64 @@
+type: edu
+custom_name: Placement New
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/animal.cpp
+    visible: true
+    editable: false
+    learner_created: false
+  - name: include/animal.hpp
+    visible: true
+    editable: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 85
+        length: 64
+        placeholder_text: // create Cat object with the name Tom in the given memory block
+        initial_state:
+          length: 64
+          offset: 85
+        initialized_from_dependency: false
+        encrypted_possible_answer: lnRy0CFQjWzd32q51dttUmpvOva5ctHECvv93qg9FUg=
+        selected: false
+        status: Unchecked
+      - offset: 189
+        length: 54
+        placeholder_text: // destroy Cat object stored in the given memory block
+        initial_state:
+          length: 54
+          offset: 189
+        initialized_from_dependency: false
+        encrypted_possible_answer: mPq9NITyYNSjBb3nD1Ay+xNzLjvpKqhbsRVfM/Bsb1OMBdV7FIdC5cIp30kb0pfF
+        selected: false
+        status: Unchecked
+      - offset: 286
+        length: 68
+        placeholder_text: // create Mouse object with the name Jerry in the given memory
+          block
+        initial_state:
+          length: 68
+          offset: 286
+        initialized_from_dependency: false
+        encrypted_possible_answer: lnRy0CFQjWzd32q51dttUt+Hz3khXuBZDV1Mn3Se2EM3uOz7nW/mRPw0YJijrwLc
+        selected: false
+        status: Unchecked
+      - offset: 396
+        length: 56
+        placeholder_text: // destroy Mouse object stored in the given memory block
+        initial_state:
+          length: 56
+          offset: 396
+        initialized_from_dependency: false
+        encrypted_possible_answer: mPq9NITyYNSjBb3nD1Ay+xhaN/Haq33RCydFhH1WE9SXlOuJsnbA3o2zUrOuoz8o
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

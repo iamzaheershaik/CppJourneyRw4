@@ -1,0 +1,29 @@
+type: output
+custom_name: First Words
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    placeholders:
+      - offset: 36
+        length: 41
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 38
+        initialized_from_dependency: false
+        encrypted_possible_answer: d8UH81JQxxEhK0gFMKMx6O9NB1Ifx3MJ7C73gtJnw0o=
+        selected: true
+        status: Solved
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Hello+World!/First+Words
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 10 Jul 2025 01:36:57 UTC"
+record: -1

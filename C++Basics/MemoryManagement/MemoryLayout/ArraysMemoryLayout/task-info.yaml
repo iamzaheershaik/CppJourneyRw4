@@ -1,0 +1,35 @@
+type: edu
+custom_name: Arrays Memory Layout
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 60
+        length: 9
+        placeholder_text: return 0;
+        initial_state:
+          length: 9
+          offset: 60
+        initialized_from_dependency: false
+        encrypted_possible_answer: IzlvG2KEa0wZPzp+R2xpTosPT3t8O26vPKeSeW3DfOsyV+duMPDdp/hdd0gCBSFu2lajESTfVMpfh608/39Qp2KF67MGjtMBgez5qkaQog9J5b/Xu595Z4mD648gBXTvlg1DFyrJj64oDrFwfSm+Wg==
+        selected: false
+        status: Unchecked
+      - offset: 114
+        length: 9
+        placeholder_text: return 0;
+        initial_state:
+          length: 9
+          offset: 114
+        initialized_from_dependency: false
+        encrypted_possible_answer: IzlvG2KEa0wZPzp+R2xpTs8oBscZcACXYbNMcaU/avPhIdUwqfPFrRwRyNn7pvGsBIYIB6Rv+v0ATEWNMmZlqXTNF0wQDhDNx5N5t2j5m+dqyaNW5gW1kGvZiX7UGOCx
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

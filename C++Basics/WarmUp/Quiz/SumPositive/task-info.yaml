@@ -1,0 +1,26 @@
+type: edu
+custom_name: Sum of Positives
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 45
+        length: 9
+        placeholder_text: return 0;
+        initial_state:
+          length: 9
+          offset: 45
+        initialized_from_dependency: false
+        encrypted_possible_answer: oC4b/WEMLDc2osqyP73Ay54JHMHdNwvSRkdq8XER346MbyIOVtlzhmoT7LOwX3xM1MDaaKhko5TGNs5dEjcmXbBcC7rqsdj1cOjprDRavX/bZ3ynBWcYuzqHTFSIZ2eap3U7YKBLCp42xEUNxGp5ap5vl5PYLR2CLchrvhWP+KAK+NP79gSt68QY9oMcP2UrZiXGbVa8n/SuXKXC0AtS6A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Quiz/Sum+of+Positives
+status: Unchecked
+record: -1

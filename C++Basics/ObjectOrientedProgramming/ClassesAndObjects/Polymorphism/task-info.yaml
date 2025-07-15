@@ -1,0 +1,69 @@
+type: edu
+custom_name: Polymorphism
+files:
+  - name: src/player.cpp
+    visible: true
+    learner_created: false
+  - name: src/consumable.cpp
+    visible: true
+    learner_created: false
+  - name: src/engine.cpp
+    visible: true
+    learner_created: false
+  - name: src/scenes.cpp
+    visible: true
+    learner_created: false
+  - name: src/textures.cpp
+    visible: true
+    learner_created: false
+  - name: src/scene.cpp
+    visible: true
+    learner_created: false
+  - name: src/statscene.cpp
+    visible: true
+    learner_created: false
+  - name: src/dynscene.cpp
+    visible: true
+    learner_created: false
+  - name: src/gobject.cpp
+    visible: true
+    learner_created: false
+  - name: src/gobjectlist.cpp
+    visible: true
+    learner_created: false
+  - name: src/cgobject.cpp
+    visible: true
+    learner_created: false
+  - name: src/enemy.cpp
+    visible: true
+    learner_created: false
+  - name: src/collision.cpp
+    visible: true
+    learner_created: false
+  - name: src/direction.cpp
+    visible: true
+    learner_created: false
+  - name: src/rectangle.cpp
+    visible: true
+    learner_created: false
+  - name: src/point.cpp
+    visible: true
+    learner_created: false
+  - name: src/operators.cpp
+    visible: true
+    learner_created: false
+  - name: src/utils.cpp
+    visible: true
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    editable: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

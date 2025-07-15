@@ -1,0 +1,25 @@
+type: edu
+custom_name: Unique Pointer
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 104
+        length: 15
+        placeholder_text: return nullptr;
+        initial_state:
+          length: 15
+          offset: 104
+        initialized_from_dependency: false
+        encrypted_possible_answer: iila8q0WBkSJjvXwkKni7VzpOJhNeQwc04vvLb+RKswY8DMpqZghiBTiJo6X27ij3gCYSsdP7NKNb3eeDwqjDh9dXMNxMedpHfVywcE65RchJRgo8hx4iwdCbYo5FSQjh0Xk9GeRP6l6sduz2LQKUEWi9dXV7+uIeiLK5Tt91pyYDTmhy0D5KPEryfWklg6VvbsVVy2E5ncmR7v4NU9QnwBaN+Nrs2XA4v27teXEgf8i2GotLEdokutdjY/Q0qp4wk3i6xuiOmwaPCrLmX16lw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

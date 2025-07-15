@@ -1,0 +1,32 @@
+type: output
+custom_name: Introduce Yourself
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    placeholders:
+      - offset: 74
+        length: 58
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 78
+        initialized_from_dependency: false
+        encrypted_possible_answer: HcNcq/fMif5mNxEEDDKVcqp+ho920GNZ71fRR4BmOqhunrU6HIWQCVshOGi7eADyMsAgkKmIAfYGSE8KYSWpJQ==
+        selected: true
+        status: Solved
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Hello+World!/Introduce+Yourself
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 10 Jul 2025 01:44:04 UTC"
+record: -1

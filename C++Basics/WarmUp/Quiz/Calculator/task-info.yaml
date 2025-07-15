@@ -1,0 +1,29 @@
+type: output
+custom_name: Calculator
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    placeholders:
+      - offset: 56
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 56
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3fPLk1bR1R/f14Tv3bNyt2GQ9ayz0380OxKLs1C4Hs7L/v4yRxpRg/MLN3AGCiWN8RhBoS41GF5M9vrSHKeO6I8ubD1RGLqnkVzO4jr7kj921dj7yf/cJXXIENxDrwvCC+pIn4e01DazEwuQJbAmUxOrtkaQbu++pyNbkfZOurxzxK+TcyKsq6cTWYK04O8Y+Q9RAA0zIcY/OalscpQPviD5s5hh/zB+FwmErWHPdVZ9+YokK/DOPwQS3er4j/1f1Dp9t+ieqTeqrlcT2lu8TJi5KGepdAWwFirfOWGam2ZrDGwbQb39X/pmyUWZ91TQ7WpYZ4Rom5utrPk5oaxr4+0cQjEVkQIc+yGMHKoiwnkkNWGxrOJkgakMnrEDEjcqxojS79grzwshe7zjLoeYaMsrFNzrhFsxJOagQchQ4JVhVQq4/VmO8yZG4AlCkv6gOvMqkA082Ind477zX2JV68z3LOG4Zd2YmNaBDXsIX+uXdtIptvcf10MWGsZGq0RZ1z31r/VUWy/IJjIbP9GCEsK9wpD8d+E1K5I9Nw6BKYIuPCp0dWx2WkGx0wwjtHvrNOZvrDoADy7Y58ix5NEj2L8ZkthOcOfc73gIx0mtqk9ZSKWHmvQPDJd0/m1yPXDieb+JJeSMXrbUavJhS09/gDshAkS4Owj4EClRP8O3JtoKXDjByNNMort1sZCJB9kbnn8AZ3BOCOy6n1dhRi94/Dob2TJZhrFv467KN99Ek9n64IekX8ZkAkTx/6vpmUx3y+EyhFQT6m2WuHirQ7Y0vN7UnLToSo/g1cjGogMx5k8XYSh/z1+2104ohBLwSSaKBGwIc7BBdbNI/N54rtcZjfGXwRUCphmuC2HTbetcxCOpkBXer8VYOXgph3AUJNnf/zVNeir4Zr7OONJNsdvVSogYmEBDHz5SlBc8dUNeK7eJrLelE1qf9GjFDKFl5h/kaWvtopusZutchQdHMMERr8USADOHibRPKWFPY3HKn6KStrKk+S1SVocKkmGAbnFB0gBLJEEEj0ea2Ry53RMMZEyRHYb7E4K2y92Xr1OV0piNPscnKqEvnxr7oNnFQXAM2LYUlraCySPCg2z6U1OIrw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Quiz/Calculator
+status: Unchecked
+record: -1

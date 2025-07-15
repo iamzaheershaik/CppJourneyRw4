@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 32
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 32
+        initialized_from_dependency: false
+        encrypted_possible_answer: zPvcKQWVXCPdnxj4wjLKgYubqg7kS1LAfiL2Q0SEZv0MGoc7LPsC7W9QIbPLc0xB
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

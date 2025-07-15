@@ -1,0 +1,112 @@
+type: edu
+custom_name: Linked List
+files:
+  - name: src/approaching.cpp
+    visible: true
+    learner_created: false
+  - name: src/loop.cpp
+    visible: true
+    learner_created: false
+  - name: src/generate.cpp
+    visible: true
+    learner_created: false
+  - name: src/collision.cpp
+    visible: true
+    learner_created: false
+  - name: src/borders.cpp
+    visible: true
+    learner_created: false
+  - name: src/direction.cpp
+    visible: true
+    learner_created: false
+  - name: src/point.cpp
+    visible: true
+    learner_created: false
+  - name: src/move.cpp
+    visible: true
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/dllist.cpp
+    visible: true
+    placeholders:
+      - offset: 58
+        length: 15
+        placeholder_text: return nullptr;
+        initial_state:
+          length: 15
+          offset: 58
+        initialized_from_dependency: false
+        encrypted_possible_answer: y/ifvkjTPE/AahySdgXj3RGY1+UAUYFRYMfmO7OWBG1FjPCMZBj0ilh2jWNhab+JykIFguGf0UY/scH8jw71r3Raajx+I3x7ALRUTfeuff7uh3xoXS+6RqLAOhTS/wWH
+        selected: false
+        status: Unchecked
+      - offset: 109
+        length: 7
+        placeholder_text: return;
+        initial_state:
+          length: 7
+          offset: 109
+        initialized_from_dependency: false
+        encrypted_possible_answer: LPGziCw3R7A1ymHR9W0RZsb64/EAb3Xy3f/B3yYZtkFQRFayBDwdejALeXR2ZodA
+        selected: false
+        status: Unchecked
+      - offset: 162
+        length: 7
+        placeholder_text: return;
+        initial_state:
+          length: 7
+          offset: 162
+        initialized_from_dependency: false
+        encrypted_possible_answer: PrTAhmvArAhtl8zi/30u36hcXV6kCn9IMh7HdH0FtZox5+JoqnzjToA0Fwf2Feig5OxZMrMjHBcrncYZl1383qTeTbI2DDeHV68cvzP0fMROo6SgHzEeF6fwwdnM++Yk/2NJbVr9zr0nz4/1UvQIPQ==
+        selected: false
+        status: Unchecked
+      - offset: 203
+        length: 7
+        placeholder_text: return;
+        initial_state:
+          length: 7
+          offset: 203
+        initialized_from_dependency: false
+        encrypted_possible_answer: mY4v3eDdBSqBwd3pykbu6LmKM50IFrkDwHwGzJjHRXCnpeETAen6q1SRJAAEH9srOiHb6KecMDrfyBj8HOvfNJQedJyYBTCmwqp3fzSXPT0=
+        selected: false
+        status: Unchecked
+      - offset: 246
+        length: 7
+        placeholder_text: return;
+        initial_state:
+          length: 7
+          offset: 246
+        initialized_from_dependency: false
+        encrypted_possible_answer: Hg9zQA5cwTc4tJ45dqjugCDQCGOVleGlRm/a1+LGQyk+7yGicZvJfKoGQ+OVZd6SP2q3WSaoGWcUlVgHACFek8DRCRL6zbp5h9MphnO0JVP7yl8J+OCCoSB94RtpS3ogroj9t07Sx8bMo9nFGow+pw==
+        selected: false
+        status: Unchecked
+      - offset: 299
+        length: 7
+        placeholder_text: return;
+        initial_state:
+          length: 7
+          offset: 299
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0bl50/bdGCLdfOQzCSyt2cdDPJ/XDWx+AP2Gm1HzPnP4NSUkUU+DS6OLgZL01zjICNWUHaIooBomdXFnM6TdzQ==
+        selected: false
+        status: Unchecked
+      - offset: 361
+        length: 7
+        placeholder_text: return;
+        initial_state:
+          length: 7
+          offset: 361
+        initialized_from_dependency: false
+        encrypted_possible_answer: /HcmLeCHPT+Ftg60EyXuXX5JwxX4uWD+wn3BmTeEN8JoDb1gG/r9gtAyM79qRlqfqIMDXdHwf9UlwUnMN6ONNnmWbZqQzjcUxcnogZ7H0JygozY0Xq/oZT68Q1gD+h36InMphQADF+B4m26mMTrebBwZhamB4S6QUOt1DCGsnGJADHRVndUp0kvRjGsP8IW1WJKZkF3o3OIH9zUc94bYGqfha3ptL6S3XwHK+A9y6hYcmVLzu84yRy46G1kxAoHvud0hXoPwgWffXdi8SGIlTOIQLRGBWQTkodb5pvGTPYM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

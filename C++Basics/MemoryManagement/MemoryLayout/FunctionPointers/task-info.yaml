@@ -1,0 +1,25 @@
+type: edu
+custom_name: Function Pointers
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 90
+        length: 9
+        placeholder_text: return 0;
+        initial_state:
+          length: 9
+          offset: 90
+        initialized_from_dependency: false
+        encrypted_possible_answer: tj5Y8SGHejIbc2Gk8ObUWUWqZndLYabzTHfET9rM+3G+ZmDrkVcdXkdtul8M7yBNKPZP3A9suZIE2V+iHc5bIXHwSpokvbg+9W8tMUlieLSAQSKJF/KB0tw5qOLBQqOXaRXs2WA4d3sYWTDmHbvsTA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

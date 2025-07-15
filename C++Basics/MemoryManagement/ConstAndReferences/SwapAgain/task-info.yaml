@@ -1,0 +1,25 @@
+type: edu
+custom_name: Swap Again
+files:
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 32
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 32
+        initialized_from_dependency: false
+        encrypted_possible_answer: ++WDJfBT2lpaGAyAXUlLkVnHeZqHcONWILfA4tV2f93BembpIA5NjqwUyOL9QPBN
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

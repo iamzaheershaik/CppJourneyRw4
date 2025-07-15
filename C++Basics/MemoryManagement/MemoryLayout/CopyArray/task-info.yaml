@@ -1,0 +1,25 @@
+type: edu
+custom_name: Copy Array
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 57
+        length: 15
+        placeholder_text: return nullptr;
+        initial_state:
+          length: 15
+          offset: 57
+        initialized_from_dependency: false
+        encrypted_possible_answer: iila8q0WBkSJjvXwkKni7VzpOJhNeQwc04vvLb+RKswY8DMpqZghiBTiJo6X27ijxc7Ckk1Vl2Z86UvWjhwz54vYiNf9UH3LfMgxHMr18G6EzVFUmE8cIByLVtR4T3N81zmutMUTzvRt5AxLpd4ryUBG0BHwV9m0PTgv/kwFSRZiaHAliRo3fY/b5igxrOG/Mk1r8XpAXxFAvqr4VuHWsNi3p6caBS1CiH+V5TqqUKw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

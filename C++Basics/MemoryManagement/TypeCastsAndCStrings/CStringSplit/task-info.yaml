@@ -1,0 +1,27 @@
+type: edu
+custom_name: C Style String Splitting
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/task.cpp
+    visible: true
+    placeholders:
+      - offset: 106
+        length: 24
+        placeholder_text: |-
+          res = nullptr;
+          return 0;
+        initial_state:
+          length: 24
+          offset: 106
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZNNRJN1BeLHx74mFIY5ikwZh3s08P9Eoye3G+SYPicQYFQaa9SGz3n5qxhI1++HtccPtOBENNjJaXORPpZe2bFHOxzQhqlwsx4z73FLYt27lWRW8+hgYJ5ITLVfLY/ZcEG580G5usp7RwfVKp9V9iJo92c/YBLMYjspyzNcTqRda91WbdcA336GgudWJHLf49durH5dbAZC/h4VAdcefuc/yS2/WoSfM5mjVMD+RoKBWyL3u3fl3OQeUpoGol+9z69qoJZyYRnKvzzWgB4MnDtIUHCdwVJPZ2MJVu4wNNrBJ6h0nJsH3wUtw5VJELiQxxw5IFF0ghGYD5hGZQjqnschhVoymrLZzYgwIJkHAM361YsvQqogJagtNXamk+MLmHIUaZ2m/c7mHno0mimgqsiLrq0QP5yko+JuQmjXkzsf1QxQDGSPWSYSxO+JQXFJdpwOVq5AHdV/JP8lOL8RMA83WcN7Jv4VWR6CQ8/gsHjCOKuQwHlfA+Fpx2+Y1a79x+y12OtrBrtFg3TzRimTde6iEN2uqxylEVWjTWBzIxpXZ10FY1h3eVkV818mZk0Lzd/PcKe8pB/Dtu2k2MaU3ssjbRyzoxeDal4JicQYPu57Ot+q4aURMuYDSJ6jAiojkXqt7NUFr6NWkH8e6qOxe8iyMiMU8OjzuX6emfIWfe3EuGQOKKzzuwREF7Oc0N/o8ToyRGvi7jmMrzxFN8hMX4V/DShhdMF07HymQ+H85wzS6y8ZOmzoO++XjBuns9J8HjxU+HjU//eVuwI5TUuIp+/VXbgrbeZQAH0GqXwZP92W6s+6TFqrsAZuk8njma+2Q1lKULFxlIqQ6UpeQFGTtm30nu1iTU+xRL8SJZ8a3VvVn9KHPWKkg2LcPfqIzGkzbwF0g0CdrPcsDOwM+hypG/vi897nkNsxMBCO+kfXXEztXvPvgXZpv6tF/sl2zExcFdjh1AmdYcmku4LqCGMTgoVkWksylnwzMOmwdH5ZE+lQGd3rIKIiqhYJ3yAgsXL078xBFSUyXQDX/GrliJy5eQO1SgdAGoGAvTUoJmreeWBRxlE9c1i6ccZIuF0a3YKFU3VXfvkIa50K8SpgAPRRTACxL+fIrDU4odZzFqpaoKjhvG1MtpiXbhIMlIfCeZZfQ74MiEJRPbHeg7m6s18PA2aDU0caYJcPwB8X8t5b9Sq0FfSQZu0oKwWmWk2HhOLmBs5JSUGxuZSRAS8whpqnQUw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

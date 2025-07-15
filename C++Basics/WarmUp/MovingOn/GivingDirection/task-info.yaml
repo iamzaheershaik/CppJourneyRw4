@@ -1,0 +1,105 @@
+type: edu
+custom_name: Giving Direction
+files:
+  - name: src/direction.cpp
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 22
+        placeholder_text: "return { 0.0f, 0.0f };"
+        initial_state:
+          length: 22
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: on/sur0CWG0ibtaPUp4I4RUa30x7yQMzoRa3PT1t+wVzhIhGVGPHM+T6Gr+R6IJV4Hjx4y86zIZwJUAHd/hD8rqBoQrW24nluRsodOi0kuCn9u4lYk/IciCzHS8/gW4QmXrrXZaFLbYxsa4MUeblFoNB91IU6yFnko54WTOpCoMdG1fqKiwO8GrPm4oelSKsg1ivMsUU0ivW3TQJ53B84TyhRBnpirNJFCDlBzi6lEBHU/5slem/JJUyQ1YzRylcgCIB8kummjhHHMZVpHVRV+/TBF3E8THxteUX1w2JaI1ty9qbeI5kZCMZsuLvKNcUmuRjZxIzY3fryRws/poX6qczfP37k4ht59RpqnTRB3qhSjf1joUgXpkD/jF1+qwKnP+D+/AVSO5mGOrDzGhejEnE9jQbU6nv9cwZOK/BiXE=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/point.cpp
+    visible: true
+    placeholders:
+      - offset: 87
+        length: 10
+        placeholder_text: /* TODO */
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MovingUp
+          file: src/point.cpp
+          placeholder: 1
+        initial_state:
+          length: 10
+          offset: 87
+        initialized_from_dependency: false
+        encrypted_possible_answer: INFFZm5M9eNeUYNHh0poE4IjA6Qhliit+YXwuyp8KiidJgZf8F5m/TN12meGrfFZ
+        selected: false
+        status: Unchecked
+        is_visible: false
+      - offset: 179
+        length: 10
+        placeholder_text: /* TODO */
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MovingUp
+          file: src/point.cpp
+          placeholder: 2
+        initial_state:
+          length: 10
+          offset: 179
+        initialized_from_dependency: false
+        encrypted_possible_answer: pelbdSGe8NgHG+byI/ljy5v/ZQLq/c9yOSKURsdX+MpMLssF9QyW3PScRwJi68X/
+        selected: false
+        status: Unchecked
+        is_visible: false
+      - offset: 282
+        length: 8
+        placeholder_text: position
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MovingUp
+          file: src/point.cpp
+          placeholder: 3
+        initial_state:
+          length: 8
+          offset: 282
+        initialized_from_dependency: false
+        encrypted_possible_answer: SKJuYDb16PU7jYutTiTlSfCAdk8sm41OEn66k7L3tCTPDWPR+FlDsnI2q+usN94C
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: src/move.cpp
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 8
+        placeholder_text: position
+        dependency:
+          section: WarmUp
+          lesson: MovingOn
+          task: MovingUp
+          file: src/move.cpp
+          placeholder: 1
+        initial_state:
+          length: 8
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: /IQIMKSrhsIgpemC4obiThpE863msPE3k23akoUEhdM=
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/test.cpp
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScfBp0gzdxWOmXvQVdyNmeO1od7CG7zxLgNUP4LzKxLBCzkhQ/viewform?usp=pp_url&entry.2103429047=Warm+Up/Moving+On/Giving+Direction
+status: Unchecked
+record: -1

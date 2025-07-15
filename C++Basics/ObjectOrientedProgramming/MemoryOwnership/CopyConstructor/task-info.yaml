@@ -1,0 +1,16 @@
+type: theory
+custom_name: Copy Constructor
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: include/int_array.hpp
+    visible: true
+    editable: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true
